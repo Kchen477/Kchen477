@@ -65,26 +65,26 @@ Not specified,Grounding Methods,T,NA,1
 ,Stimulating Methods,T,Worn,3
 ,Stimulating Methods,T,Encountered,3
 ,Stimulating Methods,T,NA,1
-,Source to Mechanical Mechanisms,F,Active materials,1
-,Source to Mechanical Mechanisms,T,Electrostatic Mechs,3
-,Source to Mechanical Mechanisms,T,Electromagnetic Mechs,3
-,Source to Mechanical Mechanisms,T,Piezoelectric actuators,3
-,Source to Mechanical Mechanisms,T,Phase transformation materials,3
-,Source to Mechanical Mechanisms,T,Shape memory materials,3
-,Source to Mechanical Mechanisms,T,Rheological materials,3
-,Source to Mechanical Mechanisms,T,Gel actuators,3
-,Source to Mechanical Mechanisms,F,Passive Mechs,1
-,Source to Mechanical Mechanisms,T,Magnetic force,3
-,Source to Mechanical Mechanisms,T,Material-flexibility-based Mechs,3
-,Source to Mechanical Mechanisms,T,Structural-flexibility-based Mechs,3
-,Source to Mechanical Mechanisms,F,Others,1
-,Source to Mechanical Mechanisms,T,People,3
-,Source to Mechanical Mechanisms,T,Existing devices,3
-,Source to Mechanical Mechanisms,T,Electrical muscle simulation,3
-,Source to Mechanical Mechanisms,T,NA,1
-,Simple to Complex Mechanisms,T,Spatial distribution of simple actuators,3
-,Simple to Complex Mechanisms,T,Mechanical structures (multiple 1 Dof to a multi-Dof),3
-,Simple to Complex Mechanisms,T,String-based and rod-based Mechs,3
-,Simple to Complex Mechanisms,T,Fluidic Mechs,3
-,Simple to Complex Mechanisms,T,Modularization,3
-,Simple to Complex Mechanisms,T,NA,1
+,Source to Mechanical Mechs,F,Active materials,1
+,Source to Mechanical Mechs,T,Electrostatic Mechs,3
+,Source to Mechanical Mechs,T,Electromagnetic Mechs,3
+,Source to Mechanical Mechs,T,Piezoelectric actuators,3
+,Source to Mechanical Mechs,T,Phase transformation materials,3
+,Source to Mechanical Mechs,T,Shape memory materials,3
+,Source to Mechanical Mechs,T,Rheological materials,3
+,Source to Mechanical Mechs,T,Gel actuators,3
+,Source to Mechanical Mechs,F,Passive Mechs,1
+,Source to Mechanical Mechs,T,Magnetic force,3
+,Source to Mechanical Mechs,T,Material-flexibility-based Mechs,3
+,Source to Mechanical Mechs,T,Structural-flexibility-based Mechs,3
+,Source to Mechanical Mechs,F,Others,1
+,Source to Mechanical Mechs,T,People,3
+,Source to Mechanical Mechs,T,Existing devices,3
+,Source to Mechanical Mechs,T,Electrical muscle simulation,3
+,Source to Mechanical Mechs,T,NA,1
+,Simple to Complex Mechs,T,Spatial distribution of simple actuators,3
+,Simple to Complex Mechs,T,Mechanical structures (multiple 1 Dof to a multi-Dof),3
+,Simple to Complex Mechs,T,String-based and rod-based Mechs,3
+,Simple to Complex Mechs,T,Fluidic Mechs,3
+,Simple to Complex Mechs,T,Modularization,3
+,Simple to Complex Mechs,T,NA,1
